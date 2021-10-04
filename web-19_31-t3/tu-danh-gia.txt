@@ -1,0 +1,10 @@
+** BTCN01 - Layout web
+
+* Nguyễn Nhật Duy - 19120495
+
+* Chức năng hoàn thành:
+ Xây dựng giao diện theo mẫu Target.
+ Sử dụng hình ảnh mẫu.
+ Tương thích với 4 trình duyệt: Edge, Chrome, Firefox.
+ Đăng tải lên host thực tế: https://ngnhatduy.github.io/web-19_31-t3/
+* Tự đánh giá: 10.
